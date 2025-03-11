@@ -1,17 +1,30 @@
-## Hi there 👋
+# $ whoami
+`> Steven.exe has loaded successfully`
 
-<!--
-**s-pecksen/s-pecksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## System Status
+`Steven v3.1.4 (Constantly upgrading)`
 
-Here are some ideas to get you started:
+## Current Processes
+- ✍️ `writing.exe` → Crafting thoughts on my [Substack](http://stevenpecksen.substack.com)
+- 🤖 `learning.exe` → Leveraging AI to solve real-world problems
+- 💼 `seeking.exe` → Clinic schedule-management AI collaborators
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# s-pecksen
+## Known Bugs
+- Occasionally gets lost in GitHub repositories
+- SEO knowledge requires patching
+- Freelance writing module needs connection updates
+
+## API Documentation
+`$ steven --ask-me-about`
+- Personal growth strategies
+- Communication debugging
+- Relationship optimization
+- Mindfulness implementations
+
+## Connection Protocols
+- Primary: [Instagram DM](http://instagram.com/stevenpecksen)
+
+## System Metadata
+- Pronouns: He/Him
+- Special Feature: Memory banks process 60+ books annually with 0% related to programming or tech
+- README Disclaimer: `Tech_jargon.module imported from Claude.ai; Steven's actual coding knowledge may be substantially lower than displayed`
